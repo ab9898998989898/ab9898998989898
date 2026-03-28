@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on projects that need my expertise <br>🤝 I’m looking for help with project architecture designing and helping<br>🌱 I’m currently learning new frame works like PHP/Laravel and other stacks<br>💬 Contact me if you want a website built or you want my expertise or any kind of help regardig you own projects<br>⚡ Fun fact about me is that i am self taught and everything that i have learned is from online sources and by reading documentations
+🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on projects that need my expertise <br>🤝 I’m looking for help with project architecture designing and helping<br>🌱 I’m currently learning new frame works like PHP/Laravel and other stacks<br>💬 Contact me if you want a website built or you want my expertise or any kind of help regardig you own projects<br>⚡ Fun fact about me is that i am self taught and everything that i have learned is from online sources and by reading documentations also by talking and networking with other senior devs
 
 
 ## 🌐 Socials:
