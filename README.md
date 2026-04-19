@@ -1,21 +1,53 @@
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate on projects that need my expertise <br>🤝 I’m looking for help with project architecture designing and helping<br>🌱 I’m currently learning new frame works like PHP/Laravel and other stacks<br>💬 Contact me if you want a website built or you want my expertise or any kind of help regardig you own projects<br>⚡ Fun fact about me is that i am self taught and everything that i have learned is from online sources and by reading documentations also by talking and networking with other senior devs
+# ⚡ Abdullah Nadeem | Full Stack Architect & AI Solutions Strategist
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdullah Nadeem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullahx__.19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdullah Nadeem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahnadeem2580@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ab9898998989898&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ab9898998989898&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ab9898998989898&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ab9898998989898&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/CEO-DIGIVIXO-blue?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Founder-ProfitNest-FFD700?style=for-the-badge&logo=education&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ab9898998989898&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛡️ About Me
+I am a **Full Stack Web Developer** and **Digital Marketer** based in Lahore, Pakistan. As the CEO of **DIGIVIXO**, I build high-performance digital ecosystems. I’m currently transitioning into an **AI Solutions Architect**, focusing on Spec-Driven Development and integrating agentic workflows into modern web architecture.
+
+* 🔭 **Currently working on:** [Project Apex](https://github.com/ab9898998989898) — A freelance ecosystem with blockchain integration.
+* 🚀 **Latest Launch:** [PakTechJobs](https://github.com/ab9898998989898) — Bridging the gap in the Pakistani tech job market.
+* 🎓 **Academic:** CS Student at Virtual University of Pakistan (3rd Sem).
+* 💎 **Design Philosophy:** "Black-Label" aesthetics—dark, royal, and immersive.
+
+---
+
+### 🛠️ The Tech Arsenal
+
+| Category | technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express, MongoDB, PostgreSQL |
+| **Motion & 3D** | GSAP, Framer Motion, Three.js, WebGL |
+| **AI & Automation** | Spec-Driven Dev (Windsurf), LLM Integration |
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ab9898998989898&show_icons=true&theme=tokyonight&hide_border=true&title_color=007bff&icon_color=FFD700" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab9898998989898&layout=compact&theme=tokyonight&hide_border=true&title_color=007bff" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah-nadeem-319560285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://abdullahpk.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <i>"Automating the future, one commit at a time."</i>
+</p>
