@@ -90,20 +90,20 @@ open_to:
 📌 Pinned Projects
 
 <p align="center">  
-  <a href="https://github.com/ab9898998989898/YOUR-REPO-1">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=YOUR-REPO-1&theme=react&hide_border=true&bg_color=0d1117" />  
+  <a href="https://github.com/ab9898998989898/Meet-AI">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=Meet-AI&theme=react&hide_border=true&bg_color=0d1117" />  
   </a>  
-  <a href="https://github.com/ab9898998989898/YOUR-REPO-2">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=YOUR-REPO-2&theme=react&hide_border=true&bg_color=0d1117" />  
+  <a href="https://github.com/ab9898998989898/3D-Portfolio-Awards">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=3D-Portfolio-Awards&theme=react&hide_border=true&bg_color=0d1117" />  
   </a>  
 </p>
 
 <p align="center">  
-  <a href="https://github.com/ab9898998989898/YOUR-REPO-3">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=YOUR-REPO-3&theme=react&hide_border=true&bg_color=0d1117" />  
+  <a href="https://github.com/ab9898998989898/Ai-Interview">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=Ai-Interview&theme=react&hide_border=true&bg_color=0d1117" />  
   </a>  
-  <a href="https://github.com/ab9898998989898/YOUR-REPO-4">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=YOUR-REPO-4&theme=react&hide_border=true&bg_color=0d1117" />  
+  <a href="https://github.com/ab9898998989898/Public-Projects">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ab9898998989898&repo=Public-Projects&theme=react&hide_border=true&bg_color=0d1117" />  
   </a>  
 </p>
 
