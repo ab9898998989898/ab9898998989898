@@ -91,27 +91,6 @@ open_to:
 
 ---
 
-## 🏗️ What I'm Currently Working On
-
-- 🎮 Advancing Unity at **CEGA Pakistan** — physics systems, game feel, and optimization
-- 🌐 Growing **Unicodrex** — structured mentorship series for students targeting their first tech role
-- 📚 Deepening knowledge in **C# design patterns**, **Unity architecture**, and **game performance profiling**
-
----
-
-## 🤝 Unicodrex — Community Work
-
-I co-founded Unicodrex to close the gap between what universities teach and what the industry expects.
-
-| What | Numbers |
-|------|---------|
-| 👨‍💻 Students mentored via GitHub & LinkedIn visibility series | **500+** |
-| 🎤 Tech events & workshops organized | **14+** |
-| 🌐 Community partners | **CNCF Cloud Native Lahore · AWS Community Pakistan · CNSL Pakistan · Skill Sprint** |
-| 🎯 Mission | Bridge academia and industry — give students real-world insights before their first interview |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
