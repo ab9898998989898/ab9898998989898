@@ -67,7 +67,7 @@ open_to:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,next.js,cs,cpp,c,python,js,html,css,tailwind,bootstrap,firebase,mysql,aws,gcp,github,git,arduino,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next.js,cpp,c,python,js,html,css,tailwind,bootstrap,firebase,mysql,aws,gcp,github,git,arduino,vscode&perline=9" />
 </p>
 
 ---
@@ -75,17 +75,21 @@ open_to:
 ## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/ab9898998989898/Meet-AI">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ab9898998989898&repo=Meet-AI&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/theabdullahnadeem/Meet-AI">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=theabdullahnadeem&repo=Meet-AI&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/ab9898998989898/3D-Portfolio-Awards">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ab9898998989898&repo=3D-Portfolio-Awards&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/theabdullahnadeem/Fraviont-store">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ab9898998989898&repo=Fraviont-store&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/ab9898998989898/Ai-Interview>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ab9898998989898&repo=Ai-Interview&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/theabdullahnadeem/Digi-Vixo>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=theabdullahnadeem&repo=Digi-Vixo&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/zeeshan020dev/Public-Projects">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ab9898998989898&repo=Public-Projects&theme=react&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/theabdullahnadeem/pak-tech-jobs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=theabdullahnadeem&repo=pak-tech-jobss&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+  </a>
+  <a href="https://github.com/theabdullahnadeem/Soft-Biz-Site">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=theabdullahnadeem&repo=Soft-Biz-Site&theme=react&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
@@ -122,7 +126,7 @@ open_to:
 ## 📈 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ab9898998989898/ab9898998989898/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/theabdullahnadeem/theabdullahnadeem/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
@@ -131,9 +135,9 @@ open_to:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab9898998989898/ab9898998989898/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab9898998989898/ab9898998989898/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/https://ab9898998989898/ab9898998989898/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theabdullahnadeem/theabdullahnadeem/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theabdullahnadeem/theabdullahnadeem/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/https://theabdullahnadeem/theabdullahnadeem/output/github-snake.svg" />
   </picture>
 </p>
 
